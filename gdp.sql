@@ -1,0 +1,1 @@
+select * from gdp_data;
